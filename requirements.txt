@@ -1,0 +1,12 @@
+python-telegram-bot==20.0a4
+httpx
+torch~=2.2.2
+moviepy~=1.0.3
+python-telegram-bot
+facenet-pytorch
+opencv-python~=4.10.0.84
+telegram~=0.0.1
+mtcnn~=1.0.0
+torchvision~=0.17.2
+pillow~=10.2.0
+retinaface~=0.0.6
